@@ -1,1 +1,1 @@
-## Laravel - Ecommerce Restful API
+## Laravel - E-Commerce Restful API
